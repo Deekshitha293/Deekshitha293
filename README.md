@@ -1,5 +1,5 @@
-# 💫 About Me:
-i am a website builder<br>
+# 💫 Hey there i am Deekshitha:
+I’m Deekshitha Bhairav, an enthusiastic ML developer, backend explorer, and blockchain tinkerer. I love turning ideas into code and breaking things (only to fix them better!). When I’m not debugging, you’ll find me sketching or experimenting with pencil tech.<br>
 
 
 ## 🌐 Socials:
